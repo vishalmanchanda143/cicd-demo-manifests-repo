@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: vishal143/ci-cd-e2e:8
+        image: vishal143/ci-cd-e2e:14
         ports:
         - containerPort: 8000
